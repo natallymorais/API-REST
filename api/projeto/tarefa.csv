@@ -1,0 +1,11 @@
+titulo,status,prioridade,data_limite,projeto
+Cadastrar livros no sistema,P,A,2025-01-20,1
+Criar layout inicial,E,M,2025-02-15,2
+Implementar notificações,P,B,2025-03-30,3
+Criar gráficos de vendas,E,A,2025-04-10,4
+Integrar gateway de pagamento,P,M,2025-05-25,5
+Criar funcionalidade de busca,P,M,2025-01-25,1
+Ajustar responsividade,C,B,2025-02-28,2
+Testar sincronização,P,A,2025-04-05,3
+Implementar autenticação,E,M,2025-04-20,4
+Configurar banco de dados,C,A,2025-05-30,5
